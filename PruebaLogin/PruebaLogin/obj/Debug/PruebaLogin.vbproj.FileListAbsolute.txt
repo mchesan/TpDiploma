@@ -1,0 +1,20 @@
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\bin\Debug\PruebaLogin.exe.config
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\bin\Debug\PruebaLogin.exe
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\bin\Debug\PruebaLogin.pdb
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\bin\Debug\PruebaLogin.xml
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\obj\Debug\PruebaLogin.Form1.resources
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\obj\Debug\PruebaLogin.Resources.resources
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\obj\Debug\PruebaLogin.vbproj.GenerateResource.Cache
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\obj\Debug\PruebaLogin.exe
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\obj\Debug\PruebaLogin.xml
+C:\Users\msanchez\AppData\Local\Temporary Projects\PruebaLogin\obj\Debug\PruebaLogin.pdb
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\bin\Debug\PruebaLogin.exe.config
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\obj\Debug\PruebaLogin.exe
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\obj\Debug\PruebaLogin.xml
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\obj\Debug\PruebaLogin.pdb
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\bin\Debug\PruebaLogin.exe
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\bin\Debug\PruebaLogin.pdb
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\bin\Debug\PruebaLogin.xml
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\obj\Debug\PruebaLogin.Resources.resources
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\obj\Debug\PruebaLogin.vbproj.GenerateResource.Cache
+C:\Users\msanchez\Documents\UAI\2015\TpDiploma\Proyecto\TpDiploma\PruebaLogin\PruebaLogin\obj\Debug\PruebaLogin.UiListaUsuarios.resources
